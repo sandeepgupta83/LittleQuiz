@@ -1,0 +1,144 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">LittleQuiz</string>
+    <string name="animal_quiz">Animal Quiz</string>
+    <string name="plant_quiz">Plant Quiz</string>
+
+    <string-array name="questions">
+        <item>What\'s the baby animal name for Alligator?</item>
+        <item>What\'is the baby animal name for Ant?</item>
+        <item>What\'s the baby animal name for Baboon?</item>
+        <item>What\'s the baby animal name for Bear?</item>
+        <item>What\'s the baby animal name for Bee?</item>
+        <item>What\'s the baby animal name for Bird?</item>
+        <item>What\'s the baby animal name for Camel?</item>
+        <item>What\'s the baby animal name for Cat?</item>
+        <item>What\'s the baby animal name for Chicken?</item>
+        <item>What\'s the baby animal name for Cockroach?</item>
+        <item>What\'s the baby animal name for Deer?</item>
+        <item>What\'s the baby animal name for Dog?</item>
+        <item>What\'s the baby animal name for Dolphin?</item>
+        <item>What\'s the baby animal name for Elephant?</item>
+        <item>What\'s the baby animal name for Hamster?</item>
+        <item>What\'s the baby animal name for Horse?</item>
+        <item>What\'s the baby animal name for Human?</item>
+        <item>What\'s the baby animal name for Leopard?</item>
+        <item>What\'s the baby animal name for Monkey?</item>
+        <item>What\'s the baby animal name for Mouse?</item>
+        <item>What\'s the baby animal name for Panda?</item>
+        <item>What\'s the baby animal name for Penguin?</item>
+        <item>What\'s the baby animal name for Pigeon?</item>
+        <item>What\'s the baby animal name for Rabbit?</item>
+        <item>What\'s the baby animal name for Rat?</item>
+        <item>What\'s the baby animal name for Rooster?</item>
+        <item>What\'s the baby animal name for Shark?</item>
+        <item>What\'s the baby animal name for Squirrel?</item>
+        <item>What\'s the baby animal name for Tiger?</item>
+        <item>What\'s the baby animal name for Whale?</item>
+        <item>What\'s the baby animal name for Zebra?</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item>hatchling</item>
+        <item>antling</item>
+        <item>infant</item>
+        <item>cub</item>
+        <item>larva</item>
+        <item>hatchling</item>
+        <item>calf</item>
+        <item>kitten</item>
+        <item>chick</item>
+        <item>nymph</item>
+        <item>fawn</item>
+        <item>pup</item>
+        <item>pup</item>
+        <item>calf</item>
+        <item>pup</item>
+        <item>foal</item>
+        <item>baby</item>
+        <item>cub</item>
+        <item>infant</item>
+        <item>pup</item>
+        <item>cub</item>
+        <item>chick</item>
+        <item>piglet</item>
+        <item>sqab</item>
+        <item>kitten</item>
+        <item>pup</item>
+        <item>cockrell</item>
+        <item>pup</item>
+        <item>pup</item>
+        <item>cub</item>
+        <item>calf</item>
+        <item>colt</item>
+    </string-array>
+
+    <string-array name="hints">
+        <item>hatchling</item>
+        <item>antling</item>
+        <item>infant</item>
+        <item>cub</item>
+        <item>larva</item>
+        <item>hatchling</item>
+        <item>calf</item>
+        <item>kitten</item>
+        <item>chick</item>
+        <item>nymph</item>
+        <item>fawn</item>
+        <item>pup</item>
+        <item>pup</item>
+        <item>calf</item>
+        <item>pup</item>
+        <item>foal</item>
+        <item>baby</item>
+        <item>cub</item>
+        <item>infant</item>
+        <item>pup</item>
+        <item>cub</item>
+        <item>chick</item>
+        <item>piglet</item>
+        <item>sqab</item>
+        <item>kitten</item>
+        <item>pup</item>
+        <item>cockrell</item>
+        <item>pup</item>
+        <item>pup</item>
+        <item>cub</item>
+        <item>calf</item>
+        <item>colt</item>
+    </string-array>
+
+    <string-array name="wikes">
+        <item>hatchling</item>
+        <item>antling</item>
+        <item>infant</item>
+        <item>cub</item>
+        <item>larva</item>
+        <item>hatchling</item>
+        <item>calf</item>
+        <item>kitten</item>
+        <item>chick</item>
+        <item>nymph</item>
+        <item>fawn</item>
+        <item>pup</item>
+        <item>pup</item>
+        <item>calf</item>
+        <item>pup</item>
+        <item>foal</item>
+        <item>baby</item>
+        <item>cub</item>
+        <item>infant</item>
+        <item>pup</item>
+        <item>cub</item>
+        <item>chick</item>
+        <item>piglet</item>
+        <item>sqab</item>
+        <item>kitten</item>
+        <item>pup</item>
+        <item>cockrell</item>
+        <item>pup</item>
+        <item>pup</item>
+        <item>cub</item>
+        <item>calf</item>
+        <item>colt</item>
+    </string-array>
+</resources>
