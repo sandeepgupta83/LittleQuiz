@@ -4,9 +4,13 @@
     <!--<color name="colorPrimaryDark">#303F9F</color>-->
     <color name="colorPrimary">#3E4377</color>
     <color name="colorPrimaryDark">#2e3258</color>
-    <color name="colorAccent">#FD367E</color>
+    <color name="colorAccent">#fd367e</color>
     <color name="textColor">#fff</color>
     <!--<color name="background_home">#FD367E</color>-->
     <color name="background_home">#4e5493</color>
+
+    <color name="linearBackground">#e3e788</color>
+    <color name="colorBack">#CA82F8</color>
+    <color name="colorFinish">#17B978</color>
 
 </resources>

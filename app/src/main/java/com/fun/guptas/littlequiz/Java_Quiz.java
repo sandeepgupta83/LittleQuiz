@@ -123,10 +123,32 @@ public class Java_Quiz extends AppCompatActivity {
                     Log.d("LQUIZ" , "else UserCAns="+ UserCAns + "MyCAns="+ MyCAns);
                 }
                 UserCAns = "";
-                rb1.setChecked(false);
-                rb2.setChecked(true);
-                rb3.setChecked(false);
-                rb4.setChecked(false);
+                //Generate the random number between 0-5
+                Random randomNumberGenerator = new Random();
+                int numberRandom = randomNumberGenerator.nextInt(6);
+                if (numberRandom == 0 ) {
+                    rb1.setChecked(true);
+                    rb2.setChecked(false);
+                    rb3.setChecked(false);
+                    rb4.setChecked(false);
+                } else if (numberRandom > 0 && numberRandom <= 2) {
+                    rb1.setChecked(false);
+                    rb2.setChecked(true);
+                    rb3.setChecked(false);
+                    rb4.setChecked(false);
+                }
+                else if (numberRandom >= 3 && numberRandom <= 4) {
+                    rb1.setChecked(false);
+                    rb2.setChecked(false);
+                    rb3.setChecked(true);
+                    rb4.setChecked(false);
+                }
+                else {
+                    rb1.setChecked(false);
+                    rb2.setChecked(false);
+                    rb3.setChecked(false);
+                    rb4.setChecked(true);
+                }
                 next();
                 //Log.d("LQUIZ", "totalSkeep= " + totalSkeep + "totalWrong= " + totalWrong + "totalCurrent= " + totalCurrent);
             }
